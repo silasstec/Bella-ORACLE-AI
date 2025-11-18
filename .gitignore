@@ -1,5 +1,6 @@
 # Dependencies
 /node_modules
+/node_modules*
 
 # IDEs and editors
 .idea/
@@ -12,3 +13,6 @@
 .Spotlight-V100
 .Trashes
 node_modules/.bin/pbjs
+*node_modules/*
+node_modules/*
+*node_modules/
